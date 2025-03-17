@@ -7,8 +7,8 @@ export const personalData = {
   adress: 'Somewhere, onEarth',
   contactNumber: '1234567890',
   email: 'meowish@gmail.com',
-  emailPublicKey: 'YourPublicKey', // Go to emailJS.com, sign up, and get your public-key, then paste here
-  serviceId: 'service_id', // Go to emailJS.com, sign up, and get your service-id then, paste here. 
+  emailPublicKey: 'vKvjn95XxY5HhOt07', // Go to emailJS.com, sign up, and get your public-key, then paste here
+  serviceId: 'service_71bjwbo', // Go to emailJS.com, sign up, and get your service-id then, paste here. 
   templateId: 'template_gqf06fp', // Go to emailJS.com, sign up, and get your template-id then, paste here. 
   facebookLink: 'https:yourFacebookLink.com',
   instagramLink: 'https:yourInstagramLink.com',
