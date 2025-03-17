@@ -1,7 +1,7 @@
 export const personalData = {
   name: 'Cute Meowish',
   profilePicture: 'profile pic2.jpg', // Add your photo to the  "images-and-icons/images" folder and specify its filename here
-  resume: 'meowish resume.pdf',
+  resume: 'meowish-resume.pdf',
   workAvailabilityStatus: 'Available for work',
   skills: ['Tiktoker', 'Web Developer', 'UI Designer'],
   adress: 'Somewhere, onEarth',
