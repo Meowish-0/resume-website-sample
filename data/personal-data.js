@@ -14,8 +14,8 @@ export const personalData = {
   instagramLink: 'https:yourInstagramLink.com',
   twitterLink: 'https:yourTwritterLink.com',
   aboutMe: [
-            `I am Alex Morgan, a passionate Web Designer & Developer residing in the dynamic city of Berlin, Germany. My expertise lies at the intersection of visual design and technical implementation.`,
+            `I am Meowish, a creative Web Designer & Developer from the vibrant world of Cat Worl. My passion lies in crafting visually striking and highly functional websites that help you stand out in your job search.`,
 
-            `With over 5 years of experience in creating visually stunning and user-centric websites, I've honed my skills in both front-end and back-end development.`
+            `With over 3 years of experience, I specialize in blending aesthetics with seamless functionality, ensuring every project delivers an outstanding user experience.`
           ],
 }
