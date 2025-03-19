@@ -286,7 +286,7 @@
 }
 
 
-@media(width >= 1050px){
+@media(width >= 900px){
   .profile-cards-container{
     position: sticky;
     top: var(--padding-top);
