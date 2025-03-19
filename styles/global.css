@@ -83,7 +83,7 @@ body{
 }
 
 
-@media(width >= 1050px){
+@media(width >= 900px){
   body{
     --padding-top: 3rem;
     padding-top: var(--padding-top);
